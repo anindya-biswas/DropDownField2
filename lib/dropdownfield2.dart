@@ -19,7 +19,7 @@ class DropDownField extends FormField<String> {
   final ValueChanged<dynamic>? onValueChanged;
   final bool strict;
   final int itemsVisibleInDropdown;
-  final TextEditingController? controller;
+  TextEditingController? controller;
 
   DropDownField(
       {Key? key,

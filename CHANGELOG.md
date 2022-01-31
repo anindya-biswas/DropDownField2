@@ -29,3 +29,7 @@
 ## [1.0.3] - 13-Sep-2019
 
 * Updated image location
+
+## [1.0.4] -21-1-2021
+
+ * Code stolen and made nullsafe. Forgive me original author 
