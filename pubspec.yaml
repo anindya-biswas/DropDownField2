@@ -1,5 +1,5 @@
 name: dropdownfield2
-description: Custom Flutter Widget that mimicks the standard Android auto-complete dropdown field. Has many options for customizing the behavior of this field. 
+description: Custom Flutter Widget that mimicks the standard Android auto-complete dropdown field. Has many options for customizing the behavior of this field. This is null safe version of original 
 version: 1.0.4
 author: Jagannathan S <jagan.srinivasan@gmail.com>
 homepage: https://github.com/jagan999/dropdownfield
