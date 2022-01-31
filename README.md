@@ -1,8 +1,11 @@
-# dropdownfield
+# dropdownfield2
 Custom Flutter Widget for a customizable dropdown field with auto-complete functionality
 This widget is meant to be used within a Flutter Form
 
+Original Code:
 For a completely working Flutter project demonstrating the usage of dropdownfield, download the code from https://github.com/jagan999/dropdownfieldexample
+
+For a completely working Flutter project demonstrating the usage of dropdownfield, download the code from https://github.com/anindya-biswas/DropDownField2
 
 <img src="https://github.com/jagan999/dropdownfield/raw/master/example/dropdownfield.png" height="320px" >
 
