@@ -33,3 +33,7 @@
 ## [1.0.4] -21-1-2021
 
  * Code stolen and made nullsafe. Forgive me original author 
+
+ ## [1.0.7] -21-1-2021
+
+ * More changes after Flutter 3
